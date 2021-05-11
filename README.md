@@ -1,2 +1,2 @@
-# sdrc
+# SDRC
 SuDdenly Rich Coin
